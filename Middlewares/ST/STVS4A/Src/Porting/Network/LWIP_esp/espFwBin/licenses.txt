@@ -1,0 +1,10 @@
+
+The license for the ".bin" files (files with the .bin extension) is described in the dedicated file LICENSE_bin_files.txt
+
+esp_tool.exe is an open source tool.
+It comes from https://github.com/DonKinzer/esp_tool where the source code can be found as well.
+It is provided under Gnu GPL license (https://www.gnu.org/licenses/gpl.html).
+
+
+Other files 
+are provided under SLA0044 license, which can be found here: http://www.st.com/SLA0044
